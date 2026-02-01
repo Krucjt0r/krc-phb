@@ -1,0 +1,148 @@
+{
+  "id": "krc-phb",
+  "title": "Krucjator Players Handbook 2014",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "15"
+  },
+  "authors": [
+    {
+      "name": "Krucjator",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "feats-phb",
+      "label": "Feats PHB",
+      "path": "packs/feats-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "races-phb",
+      "label": "Races PHB",
+      "path": "packs/races-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "actors-phb",
+      "label": "Actors PHB",
+      "path": "packs/actors-phb",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "items-phb",
+      "label": "Items PHB",
+      "path": "packs/items-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "backgrounds-phb",
+      "label": "Backgrounds PHB",
+      "path": "packs/backgrounds-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "character-options-phb",
+      "label": "Character Options PHB",
+      "path": "packs/character-options-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spell-list-phb",
+      "label": "Spell list PHB",
+      "path": "packs/spell-list-phb",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "spells-phb",
+      "label": "Spells PHB",
+      "path": "packs/spells-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "srd-upgrade-phb",
+      "label": "SRD upgrade PHB",
+      "path": "packs/srd-upgrade-phb",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables-php",
+      "label": "Tables PHB",
+      "path": "packs/tables-php",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Players Handbook",
+      "sorting": "a",
+      "packs": [
+        "feats-phb",
+        "races-phb",
+        "actors-phb",
+        "items-phb",
+        "subclasses-phb",
+        "backgrounds-phb",
+        "character-options-phb",
+        "spell-list-phb",
+        "spells-phb",
+        "srd-upgrade-phb",
+        "tables-php"
+      ],
+      "color": "#6107bb",
+      "folders": []
+    }
+  ]
+}
