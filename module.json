@@ -1,7 +1,7 @@
 {
   "id": "krc-phb",
   "title": "Krucjator Players Handbook 2014",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "15"
@@ -12,6 +12,8 @@
       "flags": {}
     }
   ],
+  "manifest": "https://github.com/Krucjt0r/krc-phb/releases/latest/download/module.json",
+  "download": "https://github.com/Krucjt0r/krc-phb/releases/latest/download/module.zip",
   "packs": [
     {
       "name": "feats-phb",
@@ -128,12 +130,12 @@
     {
       "name": "Players Handbook",
       "sorting": "a",
+      "color": "#6107bb",
       "packs": [
         "feats-phb",
         "races-phb",
         "actors-phb",
         "items-phb",
-        "subclasses-phb",
         "backgrounds-phb",
         "character-options-phb",
         "spell-list-phb",
@@ -141,7 +143,6 @@
         "srd-upgrade-phb",
         "tables-php"
       ],
-      "color": "#6107bb",
       "folders": []
     }
   ]

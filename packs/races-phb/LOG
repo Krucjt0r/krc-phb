@@ -1,24 +1,8 @@
-2026/02/01-09:06:06.728 2e10 Recovering log #926
-2026/02/01-09:06:06.728 2e10 Level-0 table #928: started
-2026/02/01-09:06:06.737 2e10 Level-0 table #928: 40457 bytes OK
-2026/02/01-09:06:06.743 2e10 Delete type=0 #926
-2026/02/01-09:06:06.743 2e10 Delete type=3 #925
-2026/02/01-10:48:07.086 1b64 Level-0 table #931: started
-2026/02/01-10:48:07.091 1b64 Level-0 table #931: 23794 bytes OK
-2026/02/01-10:48:07.093 1b64 Delete type=0 #929
-2026/02/01-10:48:07.099 1b64 Manual compaction at level-0 from '!folders!0X9HGFRVNeXtKTl2' @ 72057594037927935 : 1 .. '!items!zxI8ACZARTYJ31UL' @ 0 : 0; will stop at '!items!qvub1MCL9XFp8FM1' @ 850 : 1
-2026/02/01-10:48:07.099 1b64 Compacting 2@0 + 0@1 files
-2026/02/01-10:48:07.102 1b64 Generated table #932@0: 6 keys, 24395 bytes
-2026/02/01-10:48:07.103 1b64 Compacted 2@0 + 0@1 files => 24395 bytes
-2026/02/01-10:48:07.105 1b64 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/02/01-10:48:07.105 1b64 Delete type=2 #928
-2026/02/01-10:48:07.106 1b64 Delete type=2 #931
-2026/02/01-10:48:07.106 1b64 Manual compaction at level-0 from '!items!qvub1MCL9XFp8FM1' @ 850 : 1 .. '!items!zxI8ACZARTYJ31UL' @ 0 : 0; will stop at (end)
-2026/02/01-10:48:07.106 1b64 Manual compaction at level-1 from '!folders!0X9HGFRVNeXtKTl2' @ 72057594037927935 : 1 .. '!items!zxI8ACZARTYJ31UL' @ 0 : 0; will stop at '!items!qvub1MCL9XFp8FM1' @ 851 : 1
-2026/02/01-10:48:07.106 1b64 Compacting 1@1 + 1@2 files
-2026/02/01-10:48:07.110 1b64 Generated table #933@1: 50 keys, 92345 bytes
-2026/02/01-10:48:07.110 1b64 Compacted 1@1 + 1@2 files => 92345 bytes
-2026/02/01-10:48:07.111 1b64 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/02/01-10:48:07.112 1b64 Delete type=2 #922
-2026/02/01-10:48:07.112 1b64 Delete type=2 #932
-2026/02/01-10:48:07.117 1b64 Manual compaction at level-1 from '!items!qvub1MCL9XFp8FM1' @ 851 : 1 .. '!items!zxI8ACZARTYJ31UL' @ 0 : 0; will stop at (end)
+2026/02/16-14:43:11.811 19fc Recovering log #1170
+2026/02/16-14:43:11.819 19fc Delete type=0 #1170
+2026/02/16-14:43:11.819 19fc Delete type=3 #1168
+2026/02/16-16:51:27.461 462c Level-0 table #1175: started
+2026/02/16-16:51:27.461 462c Level-0 table #1175: 0 bytes OK
+2026/02/16-16:51:27.466 462c Delete type=0 #1173
+2026/02/16-16:51:27.484 462c Manual compaction at level-0 from '!folders!0X9HGFRVNeXtKTl2' @ 72057594037927935 : 1 .. '!items!zxI8ACZARTYJ31UL' @ 0 : 0; will stop at (end)
+2026/02/16-16:51:27.484 462c Manual compaction at level-1 from '!folders!0X9HGFRVNeXtKTl2' @ 72057594037927935 : 1 .. '!items!zxI8ACZARTYJ31UL' @ 0 : 0; will stop at (end)
